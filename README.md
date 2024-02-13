@@ -1,6 +1,8 @@
  Data Analytic Projects 
 # Zomato Analysis 
 Data Analysis of Zomato Geospatial Analysis
+
+
 url contains the url of the restaurant in the zomato website
 address contains the address of the restaurant in Bengaluru
 name contains the name of the restaurant
