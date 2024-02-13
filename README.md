@@ -1,4 +1,4 @@
-# Data Analytic Project #
+# Data Analytic Projects #
 # Zomato Analysis 
 Data Analysis of Zomato Geospatial Analysis
 # YouTube Case Study
