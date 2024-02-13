@@ -8,4 +8,4 @@ Data Analysis of Zomato Geospatial Analysis
 
 # Stacked bar chart with much better results in %(percentage) 
 
-![Uploading full stacked bar chart.png…]()
+![full stacked bar chart](https://github.com/Preeti0018/Zomato-Analysis/assets/159876174/513ce232-ab08-4021-b556-5c6b57d05f17)
