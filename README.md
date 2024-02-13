@@ -32,8 +32,9 @@ Extract latitudes & longitudes from data so that we are able to use maps with he
 
 ## Now lets automate South Indian and Street Food
 
+###  South Indian 
 ![south indian](https://github.com/Preeti0018/Zomato-Analysis/assets/159876174/f3f08ac1-656e-49da-8e42-e49ccaca2f01)
-
+###  Street Food 
 ![street food](https://github.com/Preeti0018/Zomato-Analysis/assets/159876174/19872715-508a-4493-816c-a470691e1ca5)
 
 
